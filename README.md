@@ -33,5 +33,5 @@ An interactive **BI dashboard** that connects marketing activity (Facebook, Goog
 
 ---
 
-## 📂 Project Structure
+
 
